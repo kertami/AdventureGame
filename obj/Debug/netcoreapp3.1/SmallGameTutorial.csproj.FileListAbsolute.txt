@@ -1,0 +1,13 @@
+C:\Users\boyae\source\repos\SmallGameTutorial\bin\Debug\netcoreapp3.1\SmallGameTutorial.exe
+C:\Users\boyae\source\repos\SmallGameTutorial\bin\Debug\netcoreapp3.1\SmallGameTutorial.deps.json
+C:\Users\boyae\source\repos\SmallGameTutorial\bin\Debug\netcoreapp3.1\SmallGameTutorial.runtimeconfig.json
+C:\Users\boyae\source\repos\SmallGameTutorial\bin\Debug\netcoreapp3.1\SmallGameTutorial.runtimeconfig.dev.json
+C:\Users\boyae\source\repos\SmallGameTutorial\bin\Debug\netcoreapp3.1\SmallGameTutorial.dll
+C:\Users\boyae\source\repos\SmallGameTutorial\bin\Debug\netcoreapp3.1\SmallGameTutorial.pdb
+C:\Users\boyae\source\repos\SmallGameTutorial\obj\Debug\netcoreapp3.1\SmallGameTutorial.csprojAssemblyReference.cache
+C:\Users\boyae\source\repos\SmallGameTutorial\obj\Debug\netcoreapp3.1\SmallGameTutorial.csproj.CoreCompileInputs.cache
+C:\Users\boyae\source\repos\SmallGameTutorial\obj\Debug\netcoreapp3.1\SmallGameTutorial.AssemblyInfoInputs.cache
+C:\Users\boyae\source\repos\SmallGameTutorial\obj\Debug\netcoreapp3.1\SmallGameTutorial.AssemblyInfo.cs
+C:\Users\boyae\source\repos\SmallGameTutorial\obj\Debug\netcoreapp3.1\SmallGameTutorial.dll
+C:\Users\boyae\source\repos\SmallGameTutorial\obj\Debug\netcoreapp3.1\SmallGameTutorial.pdb
+C:\Users\boyae\source\repos\SmallGameTutorial\obj\Debug\netcoreapp3.1\SmallGameTutorial.genruntimeconfig.cache
